@@ -2,7 +2,7 @@
     "37":{
         "Name":"PALASSIO",
         "Status":"Active",
-        "Style":"Art",
+        "Style":"Avatar",
         "Texture":"https://i.ibb.co/p49LWFy/Interior-Tienda-1.png",
         "WorldPortalID":"wrld_34730fdc-14f4-4592-b09f-e146998b160b",
         "Link1":"https://discord.gg/szEUPE9eSV",
