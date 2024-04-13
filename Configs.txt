@@ -1,7 +1,7 @@
 {
     "7":{
         "Name":"Estebantby",
-        "Status":"Active",
+        "Status":"Inactive",
         "Style":"Avatar",
         "Texture":"https://github.com/ElanVR/elanvr.github.io/blob/main/Tiendas/7/StoreTexture.png",
         "WorldPortalID":"wrld_3ff452e6-075d-486d-87f3-92900e1142db",
