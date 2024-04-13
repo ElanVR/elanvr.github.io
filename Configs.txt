@@ -29,7 +29,7 @@
     },
     "37":{
         "Name":"PALASSIO",
-        "Status":"Inactive",
+        "Status":"Active",
         "Style":"Avatar",
         "Texture":"https://github.com/ElanVR/elanvr.github.io/blob/main/Tiendas/37/StoreTexture.png",
         "WorldPortalID":"wrld_34730fdc-14f4-4592-b09f-e146998b160b",
