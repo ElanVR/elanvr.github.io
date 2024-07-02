@@ -1,0 +1,62 @@
+{
+    "0": {
+        "DiscordUser": "Brandynauta",
+        "VRCName": "Brandynauta",
+        "Tier": "STAFF"
+    },
+    "1": {
+        "DiscordUser": "ElanVR",
+        "VRCName": "LA VENENO",
+        "Tier": "STAFF"
+    },
+    "2": {
+        "DiscordUser": "Chopiツ",
+        "VRCName": "Chopi ツ",
+        "Tier": "STAFF"
+    },
+    "3": {
+        "DiscordUser": "Mederツ",
+        "VRCName": "Meder ツ",
+        "Tier": "STAFF"
+    },
+    "4": {
+        "DiscordUser": "Ronneツ",
+        "VRCName": "Ronne ツ",
+        "Tier": "STAFF"
+    },
+    "5": {
+        "DiscordUser": "Yatoツ",
+        "VRCName": "Yato ツ",
+        "Tier": "STAFF"
+    },
+    "6": {
+        "DiscordUser": "xsaochi",
+        "VRCName": "xsaochi",
+        "Tier": "STAFF"
+    },
+    "7": {
+        "DiscordUser": "IkarosChanツ",
+        "VRCName": "IkarosChan ツ",
+        "Tier": "STAFF"
+    },
+    "8": {
+        "DiscordUser": "Aeryn",
+        "VRCName": "Aeryn",
+        "Tier": "STAFF"
+    },
+    "9": {
+        "DiscordUser": "Cuervito_",
+        "VRCName": "Cuervito_",
+        "Tier": "STAFF"
+    },
+    "10": {
+        "DiscordUser": "DoñaSalma",
+        "VRCName": "Doña Salma",
+        "Tier": "STAFF"
+    },
+    "11": {
+        "DiscordUser": "юмаха",
+        "VRCName": "юмаха",
+        "Tier": "PLATINO"
+    }
+}
