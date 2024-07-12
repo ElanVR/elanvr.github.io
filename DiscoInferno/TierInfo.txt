@@ -3,7 +3,7 @@
         "VRCName": "Brandynauta",
         "Tier": "STAFF"
     },
-    "ElanVR": {
+    "elanvr": {
         "VRCName": "LA VENENO",
         "Tier": "STAFF"
     },
